@@ -1,0 +1,862 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "NLZcwK8zw3ONdVKTU6OfwrTO040",
+  "nextPageToken": "CBkQAA",
+  "regionCode": "BD",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 25
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "nGl07c-Mn0Uadap3IOBTzcGbFp4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "fXEOXVZIQVM"
+      },
+      "snippet": {
+        "publishedAt": "2022-09-09T00:02:23Z",
+        "channelId": "UCiifkYAs_bq1pt_zbNAzYGg",
+        "title": "Black Adam | Official Trailer 2 | DC",
+        "description": "There are heroes, there are villains and there is #BlackAdam. Only in theaters October 21. Subscribe To DC: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fXEOXVZIQVM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fXEOXVZIQVM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fXEOXVZIQVM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "DC",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-09-09T00:02:23Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "a_Fn6P9zD8w8m__BKlNXkxGpB1A",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "JaV7mmc9HGw"
+      },
+      "snippet": {
+        "publishedAt": "2022-06-08T13:00:37Z",
+        "channelId": "UCiifkYAs_bq1pt_zbNAzYGg",
+        "title": "Black Adam | Official Trailer | DC",
+        "description": "The world needed a hero, it got #BLACKADAM Only in theaters October 21. Starring: Dwayne Johnson, Pierce Brosnan, Noah ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JaV7mmc9HGw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JaV7mmc9HGw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JaV7mmc9HGw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "DC",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-06-08T13:00:37Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "PKHdZKJxkphzQYB74UnZ1KHgK4k",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "83ClbRPRDXU"
+      },
+      "snippet": {
+        "publishedAt": "2022-07-23T22:30:00Z",
+        "channelId": "UCWOA1ZGywLbqmigxE4Qlvuw",
+        "title": "The Sandman | Official Trailer | Netflix",
+        "description": "Dream Dangerously. Enter the world of THE SANDMAN on August 5, only on Netflix. There is another world that waits for all of us ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/83ClbRPRDXU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/83ClbRPRDXU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/83ClbRPRDXU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Netflix",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-07-23T22:30:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "sICYg2K6pUxrYN9PZQWAIrSXaiA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Zi88i4CpHe4"
+      },
+      "snippet": {
+        "publishedAt": "2022-07-23T17:25:08Z",
+        "channelId": "UCjmJDM5pRKbUlVIzDYYWb6g",
+        "title": "SHAZAM! FURY OF THE GODS - Official Trailer 1",
+        "description": "Check out the official trailer for Shazam! Fury of the Gods – in theaters March 2023. #ShazamMovie From New Line Cinema ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Zi88i4CpHe4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Zi88i4CpHe4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Zi88i4CpHe4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Warner Bros. Pictures",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-07-23T17:25:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "EGJw9WVVR7fEjlKg9LjjEGcC9dA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ZwFOa3qV5Sk"
+      },
+      "snippet": {
+        "publishedAt": "2022-07-23T17:25:10Z",
+        "channelId": "UCiifkYAs_bq1pt_zbNAzYGg",
+        "title": "SHAZAM! FURY OF THE GODS - Official Trailer 1",
+        "description": "Check out the official trailer for Shazam! Fury of the Gods – in theaters this Christmas. #ShazamMovie From New Line Cinema ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZwFOa3qV5Sk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZwFOa3qV5Sk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZwFOa3qV5Sk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "DC",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-07-23T17:25:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "gf5H1Mc_b-DyELB6N0oQtM6iOwU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "VJamVNlQMOY"
+      },
+      "snippet": {
+        "publishedAt": "2021-11-23T17:00:17Z",
+        "channelId": "UCbxjDfYwfF8RjYBp5htJ38Q",
+        "title": "DC League Of Super-Pets – Official Trailer – Warner Bros. UK &amp; Ireland",
+        "description": "The #DCSuperPets are ready to sit, stay, save the world. DC League of Super-Pets. Buy or Rent the Home Premiere Now.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VJamVNlQMOY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VJamVNlQMOY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VJamVNlQMOY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Warner Bros. UK & Ireland",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-11-23T17:00:17Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "rB7AxceKGJ2hdOCEz5XFRB5Lr8E",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "kOFTZWyaOgc"
+      },
+      "snippet": {
+        "publishedAt": "2022-09-09T00:00:38Z",
+        "channelId": "UCu-cVVMn41qUA-pwdEhNqhg",
+        "title": "Black Adam - Tráiler oficial 2",
+        "description": "Existen los héroes, existen los villanos y existe #BlackAdam Sólo en cines el 20 de octubre. EL MUNDO NECESITABA UN ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kOFTZWyaOgc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kOFTZWyaOgc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kOFTZWyaOgc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Warner Bros. Pictures Latinoamérica",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-09-09T00:00:38Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "94_k1LQkshCzHglWeHf_nh6P-zM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "X0tOpBuYasI"
+      },
+      "snippet": {
+        "publishedAt": "2022-06-08T13:00:18Z",
+        "channelId": "UCjmJDM5pRKbUlVIzDYYWb6g",
+        "title": "Black Adam – Official Trailer 1",
+        "description": "The world needed a hero, it got #BLACKADAM. Only in theaters October 21. From New Line Cinema, Dwayne Johnson stars in ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/X0tOpBuYasI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/X0tOpBuYasI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/X0tOpBuYasI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Warner Bros. Pictures",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-06-08T13:00:18Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "esXRk_jsA-kboTWHG_mY4_V4WNI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ZJXamnPUm0I"
+      },
+      "snippet": {
+        "publishedAt": "2022-07-23T22:35:04Z",
+        "channelId": "UCiifkYAs_bq1pt_zbNAzYGg",
+        "title": "The Sandman | Official Trailer | Netflix",
+        "description": "Dream Dangerously. Enter the world of THE SANDMAN on August 5, only on Netflix. There is another world that waits for all of us ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZJXamnPUm0I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZJXamnPUm0I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZJXamnPUm0I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "DC",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-07-23T22:35:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ohyu9H3S98-6y6wAqg5cdFq2Uxk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "5C42PQsKqK8"
+      },
+      "snippet": {
+        "publishedAt": "2022-07-23T17:24:24Z",
+        "channelId": "UCakqxShhagMYYHRKMzm3BfA",
+        "title": "SHAZAM! FURY OF THE GODS  – Official Trailer 1",
+        "description": "From New Line Cinema comes “Shazam! Fury of the Gods,” which continues the story of teenage Billy Batson who, upon reciting ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5C42PQsKqK8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5C42PQsKqK8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5C42PQsKqK8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Warner Bros. Australia",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-07-23T17:24:24Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "t_amu5z_4NtbZHXLFHEu1YYb9Xc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "4B-rRimqWbU"
+      },
+      "snippet": {
+        "publishedAt": "2022-02-11T17:44:10Z",
+        "channelId": "UCWJ5MfdQZ6jXbF5gYuSAf5Q",
+        "title": "DC Movies - Official The World Needs Heroes Trailer (2022) Dwayne Johnson, Jason Momoa, Ezra Miller",
+        "description": "Check out the trailer for a look at DC movies coming in 2022, including The Batman, Black Adam, The Flash, and Aquaman and ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4B-rRimqWbU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4B-rRimqWbU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4B-rRimqWbU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "IGN Movie Trailers",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-02-11T17:44:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ydckkb2rDz0jLEzqusG2jCUNNnQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "zHDKwTY3SNg"
+      },
+      "snippet": {
+        "publishedAt": "2021-11-23T17:00:30Z",
+        "channelId": "UCIQ5iN8wzGkKyXJeX6eR50Q",
+        "title": "DC LEAGUE OF SUPER-PETS – Trailer Ufficiale",
+        "description": "In “DC League of Super-Pets”, gli inseparabili migliori amici Krypto il Super Cane e Superman condividono gli stessi superpoteri e ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zHDKwTY3SNg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zHDKwTY3SNg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zHDKwTY3SNg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Warner Bros. Italia",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-11-23T17:00:30Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "owY2fiRO6fGJxANI_BBNUs94dbU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "lROrY_3PmQA"
+      },
+      "snippet": {
+        "publishedAt": "2022-09-09T00:00:30Z",
+        "channelId": "UCEOVI4AmQE01FDKNFunkV2w",
+        "title": "Adão Negro | Trailer Oficial 2",
+        "description": "Existem heróis, existem vilões e existe #AdaoNegro. 20 de outubro, SOMENTE nos cinemas. O MUNDO PRECISAVA DE UM ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lROrY_3PmQA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lROrY_3PmQA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lROrY_3PmQA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Warner Bros. Pictures Brasil",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-09-09T00:00:30Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "iP2DLiYMabeWZeGZdcgK7vP3oV8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "HluMG9tJXHM"
+      },
+      "snippet": {
+        "publishedAt": "2022-06-10T13:53:04Z",
+        "channelId": "UCEOVI4AmQE01FDKNFunkV2w",
+        "title": "Adão Negro - Trailer Oficial 1 dublado",
+        "description": "O mundo precisava de um herói, agora ele tem #AdaoNegro Estreia dia 20 de outubro, somente nos cinemas. Da New Line ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HluMG9tJXHM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HluMG9tJXHM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HluMG9tJXHM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Warner Bros. Pictures Brasil",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-06-10T13:53:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "A158ZSiXiDAazNQumbXngz0WC3Y",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xVnHZ5SF1Jg"
+      },
+      "snippet": {
+        "publishedAt": "2019-05-28T15:58:47Z",
+        "channelId": "UCiifkYAs_bq1pt_zbNAzYGg",
+        "title": "Swamp Thing | Full Trailer | DC Universe | The Ultimate Membership",
+        "description": "Join now at: https://yourdcu.com/swampthingtrailer SWAMP THING follows Abby Arcane as she investigates what seems to be a ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xVnHZ5SF1Jg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xVnHZ5SF1Jg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xVnHZ5SF1Jg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "DC",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-05-28T15:58:47Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Zmgyzfex0muvPhpThgmZEghq2N8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Jl4DCMw6Frc"
+      },
+      "snippet": {
+        "publishedAt": "2022-07-23T17:24:25Z",
+        "channelId": "UCEOVI4AmQE01FDKNFunkV2w",
+        "title": "SHAZAM! FÚRIA DOS DEUSES - Trailer Oficial",
+        "description": "Shazam! Fúria dos Deuses, da New Line Cinema, traz a continuação da história do adolescente Billy Batson que, ao invocar a ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Jl4DCMw6Frc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Jl4DCMw6Frc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Jl4DCMw6Frc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Warner Bros. Pictures Brasil",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-07-23T17:24:25Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "JF3O5SlyVN1ZNnfGgZZciQZVZjg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Knw-Hmo4GZE"
+      },
+      "snippet": {
+        "publishedAt": "2022-02-11T17:52:08Z",
+        "channelId": "UCjmJDM5pRKbUlVIzDYYWb6g",
+        "title": "DC - The World Needs Heroes",
+        "description": "The World Needs Heroes. @TheBatman @BlackAdamMovie @TheFlashMovie @AquamanMovie #DCHeroes.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Knw-Hmo4GZE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Knw-Hmo4GZE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Knw-Hmo4GZE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Warner Bros. Pictures",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-02-11T17:52:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "lHJ3DVnAaM-39waPYCNqri1ucCM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "L2umMe5uRnk"
+      },
+      "snippet": {
+        "publishedAt": "2021-11-23T17:00:22Z",
+        "channelId": "UCN4nuagxCBQK4XguqTb79hA",
+        "title": "LIÊN MINH SIÊU THÚ DC – Official Trailer",
+        "description": "Dwayne Johnson sẽ góp giọng cho nhân vật Siêu Cún Krypto trong bộ phim hoạt hình phiêu lưu - hành động mới toanh từ nhà ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/L2umMe5uRnk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/L2umMe5uRnk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/L2umMe5uRnk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Warner Bros. Vietnam",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-11-23T17:00:22Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "eP1sZ_DiI-oD-jew03dZZp2Lc3k",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "mkomfZHG5q4"
+      },
+      "snippet": {
+        "publishedAt": "2022-09-08T23:59:06Z",
+        "channelId": "UCjmJDM5pRKbUlVIzDYYWb6g",
+        "title": "Black Adam - Official Trailer 2",
+        "description": "There are heroes, there are villains and there is #BlackAdam Only in theaters October 21. THE WORLD NEEDED A HERO…",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mkomfZHG5q4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mkomfZHG5q4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mkomfZHG5q4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Warner Bros. Pictures",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-09-08T23:59:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "1jh-QEZ6wjQMDzWHeMXZaaDZzzM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "HZ175-0YBs8"
+      },
+      "snippet": {
+        "publishedAt": "2022-06-08T13:00:10Z",
+        "channelId": "UCEOVI4AmQE01FDKNFunkV2w",
+        "title": "Adão Negro - Trailer Oficial 1",
+        "description": "O mundo precisava de um herói, agora ele tem #AdaoNegro Estreia dia 20 de outubro, somente nos cinemas. Da New Line ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HZ175-0YBs8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HZ175-0YBs8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HZ175-0YBs8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Warner Bros. Pictures Brasil",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-06-08T13:00:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "nUe20hqGld0bjb0tUaNO6W1bSHc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "2xeLibvJVIU"
+      },
+      "snippet": {
+        "publishedAt": "2022-06-30T23:34:32Z",
+        "channelId": "UCiifkYAs_bq1pt_zbNAzYGg",
+        "title": "Batman and Superman: Battle of the Super Sons - Official Trailer",
+        "description": "Legacies must rise to unearthly challenges as the children of Batman and Superman are charged with saving their famous ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2xeLibvJVIU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2xeLibvJVIU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2xeLibvJVIU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "DC",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-06-30T23:34:32Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "L-LZHDG8YA-UWui8dqdq_ZOc93w",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "drQWopZDEEY"
+      },
+      "snippet": {
+        "publishedAt": "2021-10-16T18:41:39Z",
+        "channelId": "UCzcRQ3vRNr6fJ1A9rqFn7QA",
+        "title": "THE FLASH Trailer (2022)",
+        "description": "THE FLASH Trailer (2022) Ezra Miller, Michael Keaton, Batman, DC Movie HD © 2021 - Warner Games.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/drQWopZDEEY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/drQWopZDEEY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/drQWopZDEEY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ONE Media",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-10-16T18:41:39Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "p5ecaRJyOv7IuYbr7F1aSCllIf0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "jppK_dp7YXY"
+      },
+      "snippet": {
+        "publishedAt": "2022-02-11T16:59:50Z",
+        "channelId": "UCiifkYAs_bq1pt_zbNAzYGg",
+        "title": "The World Needs Heroes | DC",
+        "description": "The World Needs Heroes. #TheBatman #BlackAdam #TheFlash #Aquaman Subscribe To DC: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jppK_dp7YXY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jppK_dp7YXY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jppK_dp7YXY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "DC",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-02-11T16:59:50Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "5sSt-nYD7nJTL1cer4K6xKUXRP8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "spKdJkWlRZs"
+      },
+      "snippet": {
+        "publishedAt": "2021-11-23T18:01:56Z",
+        "channelId": "UC5XG4yYM-_DQ-3HPRuam76Q",
+        "title": "DC LIGA DOS SUPERPETS - Trailer Dublado",
+        "description": "Assista ao novo trailer de #DCLigaDosSuperPets No nosso site, você pode saber mais sobre as medidas de segurança adotadas ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/spKdJkWlRZs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/spKdJkWlRZs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/spKdJkWlRZs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Ingresso.com",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-11-23T18:01:56Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "0CzfeWQF2Fxszum8cUWEZ93Rav8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "mvIpeYZGH_4"
+      },
+      "snippet": {
+        "publishedAt": "2022-09-14T13:00:23Z",
+        "channelId": "UCiifkYAs_bq1pt_zbNAzYGg",
+        "title": "Batman: The Audio Adventures S2 | Official Trailer | DC",
+        "description": "Gotham City. A seething cauldron of crime and corruption about to boil over. While The Joker remains at large, criminal kingpins ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mvIpeYZGH_4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mvIpeYZGH_4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mvIpeYZGH_4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "DC",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-09-14T13:00:23Z"
+      }
+    }
+  ]
+}
