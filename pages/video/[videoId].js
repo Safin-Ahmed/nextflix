@@ -16,7 +16,6 @@ const Video = ({ video }) => {
   const [toggleLike, setToggleLike] = useState(false);
   const [toggleDislike, setToggleDislike] = useState(false);
   const { videoId } = router.query;
-  console.log(video);
   const {
     title,
     publishTime,
@@ -33,7 +32,6 @@ const Video = ({ video }) => {
       const data = await response.json();
       if (data.length > 0) {
         const favourited = data[0].favourited;
-        console.log({ favourited });
         if (favourited === 1) {
           setToggleLike(true);
         } else if (favourited === 0) {
@@ -67,7 +65,6 @@ const Video = ({ video }) => {
     const favourited = val ? 0 : 1;
     const response = await runRatingService(favourited);
     const data = await response.json();
-    console.log("data", data);
   };
   const handleToggleLike = async () => {
     const val = !toggleLike;
@@ -77,7 +74,6 @@ const Video = ({ video }) => {
     const favourited = val ? 1 : 0;
     const response = await runRatingService(favourited);
     const data = await response.json();
-    console.log("data", data);
   };
   return (
     <div className={styles.container}>

@@ -2,7 +2,6 @@ import { NextResponse } from "next/server";
 import { verifyToken } from "./lib/utils";
 
 export async function middleware(req) {
-  console.log({ req });
   // Check the token
   const token = req ? req.cookies.get("token") : null;
   const userId = await verifyToken(token);
@@ -20,7 +19,6 @@ export async function middleware(req) {
   // if no token
   // redirect to login page
   if ((!token || !userId) && !pathname.includes("/login")) {
-    console.log("Redirected");
     const url = req.nextUrl.clone();
     url.pathname = "/login";
     return NextResponse.rewrite(url);

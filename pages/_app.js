@@ -23,7 +23,6 @@ function MyApp({ Component, pageProps }) {
   }, []);
 
   useEffect(() => {
-    console.log("Route Changing!");
     const handleComplete = () => setIsLoading(false);
     const handleStart = () => setIsLoading(true);
     router.events.on("routeChangeStart", handleStart);
