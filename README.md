@@ -2,7 +2,7 @@
 
 I created this project as my pet project of netflix clone.
 
-## You can view the live application with this link : [""]
+## You can view the live application with this link : ["https://nextflix-lilac-gamma.vercel.app/"]
 
 ## Here are some of the features of this website given below:
 
